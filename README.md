@@ -1,5 +1,11 @@
 
-## <div align="center"><p>Olá! Eu sou o Danilo Ferreira Sousa, tenho 22 anos. <br/> Graduando em ADS, Desenvolvedor Web</p></div><br/>
+## <div align="center"><p>Olá! Meu nome é Danilo Ferreira Sousa, tenho 22 anos.<br/>Sou Desenvolvedor Web</p></div><br/>
+
+#### 👨‍🎓 Análise e Desenvolvimento de Sistemas - Unesa
+
+##
+
+
 <br/>
 <div align="center">
   <a href="https://github.com/daniloferreirasousa">
