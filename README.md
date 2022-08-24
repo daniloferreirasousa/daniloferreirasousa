@@ -1,5 +1,5 @@
 
-## <div align="center"><p>Olá! Eu sou o Danilo Ferreira Sousa, tenho 22 anos. <br/> Graduando em ADS, programador Web</p></div><br/>
+## <div align="center"><p>Olá! Eu sou o Danilo Ferreira Sousa, tenho 22 anos. <br/> Graduando em ADS, Desenvolvedor Web</p></div><br/>
 <br/>
 <div align="center">
   <a href="https://github.com/daniloferreirasousa">
