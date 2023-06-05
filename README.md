@@ -1,7 +1,7 @@
 <div align="center"> 
 <div>
   <h1>DANILO FERREIRA SOUSA</h1>
-  <p> WDEV PHP - Laravel</p>
+  <p>Especialista em Desenvolvimento Web PHP com conhecimento em Laravel</p>
   <br/>
   <h4> 👨‍🎓 Formação Acadêmica</h4>
   <p>Graduando em Análise e Desenvolvimento de Sistemas - Unesa</p>
