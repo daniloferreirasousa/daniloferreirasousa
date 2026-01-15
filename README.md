@@ -4,18 +4,16 @@ Hi 👋 My name is Danilo Ferreira Sousa
 Back-End Developer
 -------------------------------
 
-Back-End | PHP | Laravel | Docker | JavaScript | MySQL | PostgreSQL | DevOps | Bootstrap | JQuery
+Back-End | Go | PHP | Laravel | Docker | JavaScript | MySQL | PostgreSQL | DevOps | Bootstrap | JQuery
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [daniloasf@outlook.com](mailto:daniloasf@outlook.com)
-* 🚀  I'm currently working on [AMAN](http://intranet.aman.eb.mil.br/)
-
-
+* 🚀  I'm currently working on Firjan SENAI (Resende)
 
 ### Skills
 
-
 <p align="left">
+<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -28,7 +26,6 @@ Back-End | PHP | Laravel | Docker | JavaScript | MySQL | PostgreSQL | DevOps | B
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
-
 
 ### Socials
 
