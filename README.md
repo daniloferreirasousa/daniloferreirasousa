@@ -10,6 +10,12 @@ Back-End | Go | PHP | Laravel | Docker | JavaScript | MySQL | PostgreSQL | DevOp
 * ✉️  You can contact me at [daniloasf@outlook.com](mailto:daniloasf@outlook.com)
 * 🚀  I'm currently working on Firjan SENAI (Resende)
 
+### 📚 Currently Learning
+
+<p align="left">
+<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+</p>
+
 ### Skills
 
 <p align="left">
