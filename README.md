@@ -1,6 +1,6 @@
-# Hi 👋 My name is Danilo Ferreira Sousa
+# Olá 👋 Meu nome é Danilo Ferreira Sousa
 
-### ⚙️ Back-End Developer | Rust Enthusiast
+### ⚙️ Desenvolvedor Back-End | Entusiasta Rust
 
 Atualmente focado em construir ferramentas para Segurança Ofensiva. Transicionando do desenvolvimento Web para o ecossistema **Rust** para explorar o máximo de segurança e eficiência no back-end.
 
