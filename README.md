@@ -1,6 +1,6 @@
 # Hi 👋 My name is Danilo Ferreira Sousa
 
-### 🦀 Back-End Developer | Rust Enthusiast
+### ⚙️ Back-End Developer | Rust Enthusiast
 
 Atualmente focado em construir ferramentas para Segurança Ofensiva. Transicionando do desenvolvimento Web para o ecossistema **Rust** para explorar o máximo de segurança e eficiência no back-end.
 
@@ -32,15 +32,6 @@ Atualmente focado em construir ferramentas para Segurança Ofensiva. Transiciona
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniloferreirasousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloferreirasousa&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
 
 ---
 
