@@ -39,6 +39,6 @@ Atualmente focado em construir ferramentas para Segurança Ofensiva. Transiciona
 
 <p align="left">
   <a href="https://www.linkedin.com/in/daniloferreirasousa/" target="_blank">
-    <img src="" alt="Linkedin" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
