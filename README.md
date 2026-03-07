@@ -1,44 +1,59 @@
 # Olá 👋 Meu nome é Danilo Ferreira Sousa
 
-### ⚙️ Desenvolvedor Back-End | Entusiasta Rust
+### ⚙️ Desenvolvedor Back-End (PHP/Laravel) | Focado em Rust & Segurança Ofensiva
 
-Atualmente focado em construir ferramentas para Segurança Ofensiva. Transicionando do desenvolvimento Web para o ecossistema **Rust** para explorar o máximo de segurança e eficiência no back-end.
+Atualmente focado em construir ferramentas para Segurança Ofensiva. Transicionando do desenvolvimento Web para o ecossistema **Rust** para explorar o máximo de segurança, eficiência e controle a nível de sistema.
 
 ---
 
 ### 🚀 Sobre Mim
 
-* 🌍  Baseado em **Resende, Brasil**
-* 💼  Professor na **Firjan SENAI**
-* ✉️  Contato: [daniloasf@outlook.com](mailto:daniloasf@outlook.com)
-* 🦀  Atualmente mergulhando fundo em **Rust** Red Teaming.
+* 🌍  Baseado em **Resende, Brasil**
+* 💼  Professor na **Firjan SENAI**
+* 🦀  Mergulhando fundo em **Rust** e ferramentas de Red Teaming
+* 🤖  Explorando inteligência artificial local e sem censura para automação de segurança
+* ✉️  Contato: [daniloasf@outlook.com](mailto:daniloasf@outlook.com)
+
+---
+
+### 🔭 Projetos em Destaque
+
+#### 🧠 RustOps GUI - Ferramenta Educacional de Red Team com IA Local
+Um aplicativo desktop *cross-platform* (Linux/Windows) rodando 100% offline. Uma interface construída para interagir com modelos de IA locais via **Ollama**. Focado em utilizar modelos sem filtros corporativos, garantindo total privacidade e liberdade — uma ferramenta ideal para pesquisas de segurança, análise de código e Red Teaming em ambientes isolados (Air-gapped).
+* 📥 **[Baixar Versão para Windows/Linux](https://github.com/daniloferreirasousa/rustops-gui/releases)**
+* 💻 **[Ver Código Fonte](https://github.com/daniloferreirasousa/rustops-gui)**
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-**Linguagens & Frameworks**
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+**Desenvolvimento Backend & Web** ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Infra & Banco de Dados**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+**Sistemas, Segurança & IA** ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=Ollama&logoColor=white)
+
+**Infra, Dados & Mobile** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Front-End & Outros**
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 Minhas Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniloferreirasousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloferreirasousa&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ---
 
 ### 📱 Conecte-se comigo
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/daniloferreirasousa/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniloferreirasousa/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniloasf@outlook.com)
