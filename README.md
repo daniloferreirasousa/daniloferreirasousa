@@ -47,8 +47,7 @@ Um aplicativo desktop *cross-platform* (Linux/Windows) rodando 100% offline. Uma
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniloferreirasousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloferreirasousa&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=daniloferreirasousa&theme=dracula&hide_border=true" alt="Estatísticas de Danilo" />
 </div>
 
 ---
