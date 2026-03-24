@@ -16,15 +16,6 @@ Atualmente focado em construir ferramentas para Segurança Ofensiva. Transiciona
 
 ---
 
-### 🔭 Projetos em Destaque
-
-#### 🧠 RustOps GUI - Ferramenta Educacional de Red Team com IA Local
-Um aplicativo desktop *cross-platform* (Linux/Windows) rodando 100% offline. Uma interface construída para interagir com modelos de IA locais via **Ollama**. Focado em utilizar modelos sem filtros corporativos, garantindo total privacidade e liberdade — uma ferramenta ideal para pesquisas de segurança, análise de código e Red Teaming em ambientes isolados (Air-gapped).
-* 📥 **[Baixar Versão para Windows/Linux](https://github.com/daniloferreirasousa/rustops-gui/releases)**
-* 💻 **[Ver Código Fonte](https://github.com/daniloferreirasousa/rustops-gui)**
-
----
-
 ### 🛠️ Tecnologias & Ferramentas
 
 **Desenvolvimento Backend & Web** ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
