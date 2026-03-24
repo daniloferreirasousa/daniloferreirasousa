@@ -26,7 +26,7 @@
 # 🦀 CrabAI  
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x400?text=CrabAI+Preview" />
+  <img src="https://placehold.co/900x400?text=CrabAI+Preview" />
 </p>
 
 > **Local AI system running 100% offline with full control and zero dependency on cloud services.**
