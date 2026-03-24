@@ -26,10 +26,16 @@
 # 🦀 CrabAI  
 
 <p align="center">
-  <img src="https://placehold.co/900x400?text=CrabAI+Preview" />
+  <img src="https://raw.githubusercontent.com/daniloferreirasousa/crabai/main/assets/crabai_logo.jpg" width="140"/>
 </p>
 
-> **Local AI system running 100% offline with full control and zero dependency on cloud services.**
+<p align="center">
+  <strong>Local AI System • Offline • Uncensored • High Performance</strong>
+</p>
+
+---
+
+> **A complete AI platform that runs locally with full control, zero cloud dependency and real-world usage.**
 
 🔗 **Get it here:**  
 👉 https://daniloferreirasousa.gumroad.com/l/CrabAI  
