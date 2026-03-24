@@ -1,52 +1,139 @@
-# Olá 👋 Meu nome é Danilo Ferreira Sousa
+# 👨‍💻 Danilo Ferreira Sousa  
 
-### ⚙️ Desenvolvedor Back-End (PHP/Laravel) | Focado em Rust & Segurança Ofensiva
+## 🚀 Fullstack Software Engineer | Systems • Rust • AI • Security  
 
-Atualmente focado em construir ferramentas para Segurança Ofensiva. Transicionando do desenvolvimento Web para o ecossistema **Rust** para explorar o máximo de segurança, eficiência e controle a nível de sistema.
-
----
-
-### 🚀 Sobre Mim
-
-* 🌍  Baseado em **Resende, Brasil**
-* 💼  Professor na **Firjan SENAI**
-* 🦀  Mergulhando fundo em **Rust** e ferramentas de Red Teaming
-* 🤖  Explorando inteligência artificial local e sem censura para automação de segurança
-* ✉️  Contato: [daniloasf@outlook.com](mailto:daniloasf@outlook.com)
+> *I build real-world software — from backend to interface — focused on performance, control and security.*  
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## 🧠 Who I Am  
 
-#### Desenvolvimento Backend & Web
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### Sistemas, Segurança & IA
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=Ollama&logoColor=white)
-
-#### Infra, Dados & Mobile
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- 🇧🇷 Brazil-based Software Engineer  
+- 🎓 Instructor at SENAI (Firjan)  
+- 🦀 Rust developer focused on systems programming & performance  
+- 🔐 Building tools for Offensive Security & Red Teaming  
+- 🤖 Creating offline AI systems with real users  
 
 ---
 
-### 📊 Minhas Estatísticas
+## 🚀 Featured Project  
+
+### 🦀 CrabAI — Local AI System (Offline & Uncensored)  
+
+> *A complete AI platform that runs locally with full control, zero cloud dependency and real-world usage.*  
+
+🔗 **Get it here:**  
+👉 https://daniloferreirasousa.gumroad.com/l/CrabAI  
+
+---
+
+### ⚡ Why it matters  
+
+Most AI tools today depend on cloud services, censorship layers and external APIs.  
+**CrabAI breaks that model.**  
+
+- 📴 Runs 100% offline  
+- 🔓 No censorship / full control over AI responses  
+- ⚙️ Zero-touch setup (auto configuration)  
+- 🧠 Powered by local models via Ollama  
+- 💬 Chat system with Markdown export  
+- 🖥️ Native GUI built with Rust (egui)  
+- 🚀 Designed for performance and privacy  
+
+---
+
+### 🧩 Tech Highlights  
+
+- Rust (system-level performance)  
+- egui (native interface)  
+- Async + concurrency (mpsc)  
+- Local AI orchestration  
+- Process automation & setup abstraction  
+
+👉 Already being used by real users  
+
+---
+
+## 🧱 What I Build  
+
+I design and deliver complete systems, not isolated features:  
+
+- Fullstack web applications (Laravel ecosystem)  
+- Native desktop tools (Rust)  
+- Offline-first AI systems  
+- Security-focused tooling  
+- Dockerized environments ready for production  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🔙 Backend  
+- PHP (Laravel)  
+- REST APIs  
+- Authentication & security  
+
+### 🎨 Frontend & UI  
+- JavaScript  
+- HTML5 & CSS3  
+- Bootstrap  
+- Responsive interfaces  
+- Flutter (cross-platform apps)  
+- egui (Rust native GUI)  
+
+### 🦀 Systems  
+- Rust (CLI, GUI, async)  
+- Memory-safe and high-performance applications  
+
+### 🐳 Infrastructure  
+- Docker  
+- Linux / Windows environments  
+- Deployment-ready setups  
+
+### 🗄️ Data  
+- PostgreSQL  
+- MySQL  
+
+### 🤖 AI  
+- Ollama  
+- Local LLMs  
+- Offline AI pipelines  
+
+---
+
+## 📊 Stats  
 
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=daniloferreirasousa&theme=dracula&hide_border=true" alt="Estatísticas de Danilo" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=daniloferreirasousa&theme=dracula&hide_border=true" />
 </div>
 
 ---
 
-### 📱 Conecte-se comigo
+## 🌐 Connect  
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniloferreirasousa/)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniloasf@outlook.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/daniloferreirasousa/  
+- 📧 Email: daniloasf@outlook.com  
+
+---
+
+## ⚡ Engineering Philosophy  
+
+> *“Software should be fast, private and under your control — not dependent on external systems.”*  
+
+---
+
+## 🧭 Current Direction  
+
+- 🦀 Advanced Rust systems  
+- 🔐 Offensive security tooling  
+- 🤖 Autonomous offline AI systems  
+- ⚙️ Zero-dependency architectures  
+
+---
+
+## 🧨 Final Note  
+
+I focus on building tools that actually get used — not just projects.  
+
+If you're interested in systems, security or AI without limitations,  
+you're in the right place.
